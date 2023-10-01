@@ -1,0 +1,5 @@
+screenshot*
+*.class
+*.jar
+/nFactorial/META-INF
+/.vscode
